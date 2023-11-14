@@ -1,0 +1,23 @@
+.movie-list {
+    display: flex;
+    flex-direction: column-reverse;
+    align-content: stretch;
+    background-color: transparent;
+}
+
+.movie-list button {
+    color: white;
+    margin: 5px;
+    margin-left: 10px;
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    background-color: transparent;
+    text-align: left;
+    font-size: medium;
+}
+
+button:hover {
+    color: #ffd966;
+    cursor: pointer;
+}

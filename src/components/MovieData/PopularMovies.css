@@ -1,0 +1,26 @@
+.popular-movie-container {
+    align-items: top;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+}
+
+.popular-movie-poster img {
+    width: 300px;
+    height: 350px;
+    max-width: fit-content;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.popular-movie-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.popular-movie-list p {
+    margin: 5px;
+    font-size: medium;
+    max-width: 200px;
+}

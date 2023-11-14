@@ -6,10 +6,12 @@ Welcome to my case study!
 You should see the version of the package installed ex: `v20.2.0`<br>
 If not, please click on https://nodejs.org/en/download and follow the steps to install it
 
-3. Launch `npm install` in your terminal
+3. Insert your API key in the `.env` file: `REACT_APP_API_KEY="YOUR_KEY"`
 
-4. Launch `npm start`
+4. Launch `npm install` in your terminal
 
-5. A window will open automatically. If not, go on http://localhost:3000/
+5. Launch `npm start`
+
+6. A window will open automatically. If not, go on http://localhost:3000/
 
 Enjoy! You will be able to search for a movie by its title or its alternative title, genre and year of release.

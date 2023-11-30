@@ -1,5 +1,7 @@
-# Fleet case study
-Welcome to my case study! 
+# Front-end case study
+The assignment was to create a web app to search and filter for movies, using an API.
+Langage: ReactJS
+
 1. Download this project on your computer and go inside the folder on your terminal 
 
 2. Open your terminal and check if "node" is installed on your computer with the command `node -v`<br>

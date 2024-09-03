@@ -1,4 +1,7 @@
 # Front-end case study
+<img width="1046" alt="Capture d’écran 2024-09-03 à 11 15 27" src="https://github.com/user-attachments/assets/0056eba4-79ca-40d7-bfe1-21104a9ecad1">
+<img width="1076" alt="Capture d’écran 2024-09-03 à 11 16 26" src="https://github.com/user-attachments/assets/5f9026c2-5c13-4522-a469-23fec546f693">
+
 The assignment was to create a web app to search and filter for movies, using an API.
 Langage: ReactJS
 
